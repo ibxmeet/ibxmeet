@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**ibxmeet/ibxmeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Meet, currently learning design in depth.
 
-Here are some ideas to get you started:
+I love creating pixel art.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Occasionally, I bring my imagination to life with Blender.
+
+*(P.S. I love communicating—it's my strongest skill by far.)*
+
+## Interests
+
+-  Pixel Art
+-  Blender
+-  Adobe Creative Suite
+-  Web Development
+- UI/UX Design
