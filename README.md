@@ -11,5 +11,4 @@ Occasionally, I bring my imagination to life with Blender.
 -  Pixel Art
 -  Blender
 -  Adobe Creative Suite
--  Web Development
--  UI/UX Design
+-  Machine Learning
