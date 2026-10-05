@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello 
 
 I'm Meet, currently learning design in depth.
 I love creating pixel art.
